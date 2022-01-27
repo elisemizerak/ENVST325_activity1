@@ -29,5 +29,15 @@ most_difficult_peaks <- data.frame(name = peak_names,
                                    elevation = elevations,
                                    ClimbAscent = climb_ascent,
                                    roundtrip = round_trip_length)
+
+####### Homework 1 -----
+
+# Question 1
+
+elevations*0.3048
+
+# Question 3
+
+
   
 
