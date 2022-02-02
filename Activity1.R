@@ -1,5 +1,7 @@
  # Activity and Homework 1
 
+###### Practice ----
+
 6*6
 
 
@@ -11,7 +13,7 @@ myData <- data.frame(col1=c(4,3),
 
 myVec*10
 
-########### In class prompt 1 ----
+########### In class prompts ----
 # Prompt 1
 
 snow_depth <- c(2.5,3,5,4.5)
@@ -37,6 +39,8 @@ most_difficult_peaks <- data.frame(name = peak_names,
 elevations*0.3048
 
 # Question 3
+
+longest_round_trip <- most_difficult_peaks[2,]
 
 
   
